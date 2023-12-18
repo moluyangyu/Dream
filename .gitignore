@@ -1,0 +1,95 @@
+# Unity-specific ignores
+[Tt]emp/
+[Ll]ibrary/
+[Ll]ocal[Cc]ache/
+[Ll]ogs/
+[Bb]uild/
+[Bb]uilds/
+[Tt]est[Rr]esults/
+[Bb]uild[Bb]in/
+[Bb]uild[Bb]uild/
+
+# Mono Auto Generated Files
+[Ll]ibrary/
+
+# Unity3D generated meta files
+[Ll]ibrary/ShaderCache/
+[Ll]ibrary/ScriptAssemblies/
+
+# Unity3D generated file on crash reports
+sysinfo.txt
+
+# Unity3D Generated File On Crash Reports
+[Oo]bj/
+
+# Builds
+[Bb]uilds/
+
+# Visual Studio Code directory
+.vscode/
+
+# Rider directory
+.idea/
+
+# User-specific files
+[Ll]ibrary/[Ss]treamingAssets/
+[Ll]ibrary/ScriptMapper-Last.dat
+[Ll]ibrary/assetDatabase3
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Exclude UserSettings folder
+UserSettings/
+# Exclude TextMeshPro folder
+Assets/TextMesh Pro/
+# Upload ProjectSettings folder
+!ProjectSettings/
+*.otf
+*.asset
