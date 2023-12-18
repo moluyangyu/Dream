@@ -1,4 +1,0 @@
-repository "Dream@simsleep@cloud.cn"
-  path "/"
-    br "/main"
-    co "/main"
