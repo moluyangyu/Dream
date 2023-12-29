@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F4FDE104-3B22-055B-5A50-6672F307402C}</ProjectGuid>
+    <ProjectGuid>{FD3896BD-18EB-CC6E-4A65-C92BF043C5FE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.RenderPipelines.Universal.Runtime</AssemblyName>
@@ -886,27 +886,27 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.csproj">
-      <Project>{1FF5C486-58D3-7BF7-BEDB-9190A81BBB9B}</Project>
+      <Project>{8122B4D7-F45D-7E99-B165-6E1E7CEA1659}</Project>
       <Name>Unity.RenderPipelines.Core.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipeline.Universal.ShaderLibrary.csproj">
-      <Project>{CD847C48-2494-0234-1C16-1DFD312C4E49}</Project>
+      <Project>{08CBABDD-1A43-B5D8-2EAA-434623A0F5A5}</Project>
       <Name>Unity.RenderPipeline.Universal.ShaderLibrary</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Mathematics.csproj">
-      <Project>{F714F477-91E7-0DA2-D94F-E95A4AAC69E0}</Project>
+      <Project>{408A2E2F-2045-987D-B628-AAA80EFCAA4F}</Project>
       <Name>Unity.Mathematics</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Burst.csproj">
-      <Project>{F31F4124-0733-0E2A-25D8-641694EBC883}</Project>
+      <Project>{DE28DF2B-B3FA-75D5-C6B6-1B019DCB88AD}</Project>
       <Name>Unity.Burst</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{0B7D974F-B74B-664F-19D2-5E2582609E2B}</Project>
+      <Project>{7086532B-207C-E14C-02C7-372356168C37}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{F54417C4-F4F5-C022-C2D6-892426E12D97}</Project>
+      <Project>{ADA6E1A3-B103-AF7B-B1E5-C4D3C694D833}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>
